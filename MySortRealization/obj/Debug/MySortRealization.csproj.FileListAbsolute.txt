@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\MySortRealization\MySortRealization\bin\Debug\MySortRealization.exe.config
+C:\Users\Admin\source\repos\MySortRealization\MySortRealization\bin\Debug\MySortRealization.exe
+C:\Users\Admin\source\repos\MySortRealization\MySortRealization\bin\Debug\MySortRealization.pdb
+C:\Users\Admin\source\repos\MySortRealization\MySortRealization\obj\Debug\MySortRealization.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MySortRealization\MySortRealization\obj\Debug\MySortRealization.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MySortRealization\MySortRealization\obj\Debug\MySortRealization.exe
+C:\Users\Admin\source\repos\MySortRealization\MySortRealization\obj\Debug\MySortRealization.pdb
